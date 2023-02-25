@@ -1,4 +1,5 @@
 
+
 *{
     margin: 0;
     padding: 0;
@@ -448,10 +449,14 @@ border-bottom:2px solid #b28756 ;
         top: 100px;
         right: 0;
     }
+    .menu button img {
+        margin-right: 50px;
+    }
     .menu button {
         background-color: green;
         width: 50px;
         display: block;
+        margin-right: 30px;
     }
     
     .banner h1 {
